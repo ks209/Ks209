@@ -65,3 +65,4 @@
 </div>
 
 ###
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntf1kphbhary1hmwba7v0iz5u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
