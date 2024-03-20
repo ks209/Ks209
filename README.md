@@ -1,4 +1,4 @@
-<h3 align="left">Hi there! I'm Kartik, a passionate web developer from Delhi, India. I'm always eager to learn new technologies and build innovative projects.</h3>
+<h3 align="left">Hi there! I'm Kartik, a passionate web developer. I'm always eager to learn new technologies and build innovative projects.</h3>
 
 ###
 
@@ -65,4 +65,6 @@
 </div>
 
 ###
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntf1kphbhary1hmwba7v0iz5u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
