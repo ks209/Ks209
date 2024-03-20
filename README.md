@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left">Looking for:<br><br>Open-source project contributions!<br>Collaboration opportunities<br>Exciting new challenges!</h3>
+<h3 align="left">Looking for:Open-source project contributions! Collaboration opportunities Exciting new challenges!</h3>
 
 ###
 
