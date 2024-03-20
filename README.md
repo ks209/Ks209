@@ -51,10 +51,6 @@
 
 ###
 
-<h3 align="left">Looking for:Open-source project contributions! Collaboration opportunities Exciting new challenges!</h3>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ks209/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -66,5 +62,5 @@
 
 ###
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntf1kphbhary1hmwba7v0iz5u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ntf1kphbhary1hmwba7v0iz5u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
