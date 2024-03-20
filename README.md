@@ -50,6 +50,14 @@
 </div>
 
 ###
+* 🌱 I’m currently learning web3 and Redis
+* 🤝 I’m looking to collaborate on FullStack Startup Projects
+* 💬 Ask me about EJS Express And JavaScript
+* 📫 How to reach me: kartiksingla20@proton.me
+* ❤️ I love to Code and Play Valorant
+* ⚡ Fun fact: Oct 18 == Dec 25
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ks209/" target="_blank">
