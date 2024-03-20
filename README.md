@@ -6,11 +6,6 @@
   <img height="200" src="https://i.redd.it/n8agw6z2smyb1.gif"  />
 </div>
 
-###
-
-
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ntf1kphbhary1hmwba7v0iz5u&unique={true|1|on|yes})
-
 
 ###
 
