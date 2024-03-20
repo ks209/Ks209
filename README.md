@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Singla</h1>
 <h3 align="center">A passionate Fullstack Developer and web3 learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ks209&label=Profile%20views&color=0e75b6&style=flat" alt="ks209" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ks209&label=Profile%20views&color=000000&style=flat" alt="ks209" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ks209" alt="ks209" /></a> </p>
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ks209&show_icons=true&locale=en&layout=compact" alt="ks209" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ks209&show_icons=true&locale=en" alt="ks209" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ks209&show_icons=true&theme=dark&locale=en" alt="ks209" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ks209&" alt="ks209" /></p>
