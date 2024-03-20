@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Kartik, a passionate web developer. I'm always eager to learn new technologies and build innovative projects.</h2>
+<h2 align="center">Hello! I'm Kartik, a passionate web developer. I'm always eager to learn new technologies and build innovative projects.</h2>
 
 ###
 
