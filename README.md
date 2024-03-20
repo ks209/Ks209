@@ -8,7 +8,9 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ntf1kphbhary1hmwba7v0iz5u)
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ntf1kphbhary1hmwba7v0iz5u&width={100vw})
+</div>
 
 ###
 
