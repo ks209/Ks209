@@ -73,6 +73,6 @@
   <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ntf1kphbhary1hmwba7v0iz5u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 ###
-<a href="http://kartiksingla.online"><img src="https://i.ibb.co/McpXWcw/image.png" alt="image" width="100%" border="0"></a>
+<a href="http://kartiksingla.online"><img src="https://pouch.jumpshare.com/preview/KYvxSJC9hCZk0Nlheqiu75sv14SexOxAjjq9f0peLGvN6MBhiyv7oYwa-flI4s50hjoOpyh981znn9bXEsSCgr3HdFty3xkJHklMIK1J3-o" alt="image" width="100%" border="0"></a>
 
 
