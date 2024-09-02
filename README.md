@@ -73,5 +73,6 @@
   <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ntf1kphbhary1hmwba7v0iz5u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 
-  <frame src="http://kartiksingla.online"></frame>
+<iframe style="width: 100%; height: fit-content; border: none;" src="http://kartiksingla.online"></iframe>
+
 
