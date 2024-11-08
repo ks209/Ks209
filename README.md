@@ -57,6 +57,8 @@
 * ❤️ I love to Code and Play Valorant
 * ⚡ Fun fact: Oct 18 == Dec 25
 
+* [![](https://visitcount.itsvg.in/api?id=KS209&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 <div align="center">
